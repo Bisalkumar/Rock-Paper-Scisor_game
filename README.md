@@ -50,5 +50,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Acknowledgement
 
-Special thanks to OpenAI for guidance and resources, and to the Python community for making this game possible.
+Special thanks to Youtube for guidance and resources, and to the Python community for making this game possible.
 
